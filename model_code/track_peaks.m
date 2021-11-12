@@ -13,6 +13,7 @@
 %
 % The input term searchdist determines the radius of the search oval in the
 % 1st dimension (x direction).
+% Authors : J. Samuel Arey and Jonas Gros.
 
 function [x1, x2, c1, c2, disappeared_peaks] = track_peaks(X1, X2, searchdist, plotflag, xydistort);
 

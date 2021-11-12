@@ -30,6 +30,7 @@ function [Peak_matched_1, Peak_matched_2, disappeared_peaks] = analyzeblob_fctn(
 % 
 % - 'Peak_matched_2': matched peaks in Peak_Table_2. (Same structure, just
 % the matched lines are kept).
+% Authors : J. Samuel Arey and Jonas Gros.
 
 % DEFAULTS:
 % clear;

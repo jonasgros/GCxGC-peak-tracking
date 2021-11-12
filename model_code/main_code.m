@@ -4,7 +4,7 @@
 % *** anything in this script.                                             ***
 %
 % - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-% Authors : Jonas Gros and J. Samuel Arey.
+% Authors : J. Samuel Arey and Jonas Gros.
 % See license terms stated in file:
 % LICENSE.txt
 % 
@@ -38,6 +38,9 @@ disp(' ')
 disp('---------------------------------------------------------')
 disp(' ')
 disp(' ')
+
+% change name of variable:
+template_peak_list_file = reference_peak_list_file;
 
 % A few error checks:
 if ~exist(['../',input_path,template_peak_list_file],'file')

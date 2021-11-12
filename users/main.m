@@ -1,6 +1,6 @@
 
 % - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-% Authors : Jonas Gros and J. Samuel Arey.
+% Authors : J. Samuel Arey and Jonas Gros.
 % See license terms stated in file:
 % LICENSE.txt
 % 
@@ -44,10 +44,10 @@
     % Set the input file path
     input_path = 'users/input/';
 
-    % Name of template peak list input file:
-    template_peak_list_file = 'file1.csv';
+    % Name of reference peak list input file (first, reference peak table):
+    reference_peak_list_file = 'file1.csv';
 	
-	% Name of target peak list input file:
+	% Name of target peak list input file (second peak table):
     target_peak_list_file = 'file2.csv';
 	
 	% Name of output file:

@@ -9,5 +9,5 @@ To learn how to use the program, see the
 <br><br>Please cite the following articles when publishing any results obtained by use of this software:
 <br>Wardlaw, G. D., Arey, J. S., Reddy, C. M., Nelson, R. K., Ventura, G. T., Valentine, D. L., "Disentangling oil weathering at a marine seep using GC×GC: Broad metabolic specificity accompanies subsurface petroleum biodegradation", Environmental Science & Technology, 42, 19, 7166-7173, 2008.
 <br><br> Author contacts:
-<br>J. Samuel Arey, arey@alum.mit.edu
+<br>J. Samuel Arey, sam@oleolytics.com
 <br>Jonas Gros, gros.jonas@gmail.com

@@ -20,6 +20,7 @@
 % 1st dimension.
 % 
 % In practice, we have found that xydistort = 6 is a good setting.
+% Authors : J. Samuel Arey and Jonas Gros.
 
 function [ind1, ind2, pass_flag, disappeared_peaks] = findnearest(X1, X2, searchdist, xydistort); 
 % New output: "diappeared_peaks", the peaks in the ref but not in the 
